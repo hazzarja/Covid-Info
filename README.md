@@ -8,3 +8,6 @@ TODO Functions
  - Add live chat
  - Upload images
  - Implement location services
+
+Profile A Interview: https://youtu.be/E1kWTgZqDuk
+Profile B Interview: https://youtu.be/aknyUYPoDBs
